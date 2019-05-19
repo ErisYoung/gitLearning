@@ -5,3 +5,7 @@ if True:
 
 def cc():
     print("xx")
+
+
+def cc():
+    pass
